@@ -1,4 +1,0 @@
-K-Means clustering summary (k=3)
-Cluster 0: 2678 customers
-Cluster 1: 1643 customers
-Cluster 2: 17 customers
