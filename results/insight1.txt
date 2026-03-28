@@ -1,0 +1,5 @@
+Customer base summary
+- Total customers after preprocessing: 4338
+- Average customer spend: 2048.69
+- Median number of orders per customer: 2
+- Top 10 customers contribute 17.30% of total spend.

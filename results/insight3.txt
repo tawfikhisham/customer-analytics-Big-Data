@@ -1,0 +1,9 @@
+Segment behavior
+- The highest-value spend segment is: High.
+
+Average order behavior by frequency segment:
+                   avg_orders  avg_recency
+frequency_segment                         
+Frequent                 9.42        34.11
+Rare                     1.00       155.61
+Regular                  2.40        84.90
